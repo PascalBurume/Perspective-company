@@ -5,6 +5,6 @@ This project was one that resulted from a search for a pet project (passion proj
 ## Database which is locate at Data folder
 Click this Data folder to view the data that was been used through the workshop 
 ## Pictures from Reports
+ ![My Image](./PPT1.jpg)
 
-Data/Financial Sample (1).xlsx
 ## Link for the Dasheboard and reports
