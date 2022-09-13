@@ -10,3 +10,5 @@ Click this Data folder to view the data that was been used through the workshop
  ![My Image](./PPT3.jpg)
 
 ## Link for the Dasheboard and reports
+[Perspective Company ](https://app.powerbi.com/reportEmbed?reportId=1555c7cc-a6ea-4075-a27a-57ffbc223f8a&autoAuth=true&ctid=d235b41c-5ee9-4c60-bcff-d68fe3bff6a0)
+
