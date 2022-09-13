@@ -6,5 +6,7 @@ This project was one that resulted from a search for a pet project (passion proj
 Click this Data folder to view the data that was been used through the workshop 
 ## Pictures from Reports
  ![My Image](./PPT1.jpg)
+ ![My Image](./PPT2.jpg)
+ ![My Image](./PPT3.jpg)
 
 ## Link for the Dasheboard and reports
